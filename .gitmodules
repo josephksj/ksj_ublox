@@ -1,0 +1,3 @@
+[submodule "ksj_i2cif"]
+	path = ksj_i2cif
+	url = https://github.com/josephksj/ksj_i2cif.git
